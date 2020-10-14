@@ -1,9 +1,9 @@
 # Behind the Scenes
 ##### Contents
 * [Black Dragon Eggs](#black-dragon-eggs)
-	* [Nixie's Gift](#nixie/'s-gift)
+	* [Nixie's Gift](#nixie\'s-gift)
 	* [The Evil One](#the-evil-one)
-	* [Nymmurh's Deal](#nymmurh/'s-deal)
+	* [Nymmurh's Deal](#nymmurh\'s-deal)
 * [Delaria Betrothed](#delaria-betrothed)
 
 ## Black Dragon eggs
