@@ -10,6 +10,16 @@
 	* [Doppelganger Takeover](#doppelganger-takeover)
 * [Delaria Betrothed](#delaria-betrothed)
 
+## Gold for Caravan Trip
+Character | Gold Earned
+------------ | -------------
+Delaria | 15 + 25
+Echo | 60
+Imogen | 30
+Miller | 48
+Volite | 60
+Zelia | 48
+
 ## Black Dragon eggs
 ### Nixie's Gift
 On the Fourth day of Flamerule Echo delivered **Two Black Dragon Eggs** to her mother in Calimport. Echo's mom, **Nixie el Beza**, has devised a plan to have the eggs hatched and raised by chromatic dragons in a positive place that also is a pocket dimension where time moves faster. She hopes to present these dragons as a gift and weapons to fight against the Rise of Tiamat.
