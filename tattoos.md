@@ -1,14 +1,16 @@
 # Magic Tattoos
 
->Blending magic and artistry with ink and needles, magic tattoos imbue their bearers with wonderous abilities.
-The appearance of the tattoo is customizable, but it must be representative of the effect. For example, a masquerade tattoo could take the form of a mask, a chameleon, or any reasonable form the player comes up with and the DM agrees to.
+Blending magic and artistry with ink and needles, magic tattoos imbue their bearers with wonderous abilities. The appearance of the tattoo is customizable, but it must be representative of the effect. For example, a masquerade tattoo could take the form of a mask, a chameleon, or any reasonable form the player comes up with and the DM agrees to.<br/>
 The material used in the tattoo and used to make the tattooing needle should also be representative of the effect. For instance, a Spellwrought tattoo of water breathing might be applied with a fishbone needle and the component would be Petrified Grung Egg Dust.
-The process of creating magical tattoos is an elaborate ritual that requires time for each stage of the process as well as the cost of material components.
-All magical tattoos are permanent and tattoos that have the same effect at varying levels can be enlarged to upgrade them to a higher level. A first level Spellwrought tattoo can be enlarged to become a fifth-level tattoo of the same type. This can be done by applying the process again and expanding the tattoo with embellishments. For instance, adding a wave to a pre-existing tattoo of a fish for a Water Breathing Spellwrought tattoo to extend the effects duration. This was a terrible example for lots of reasons, but you get the point. Upgraded tattoos count as one tattoo when calculating their cost.
+The process of creating magical tattoos is an elaborate ritual that requires time for each stage of the process as well as the cost of material components.<br/>
+All magical tattoos are permanent and tattoos that have the same effect at varying levels can be enlarged to upgrade them to a higher level. A first level Spellwrought tattoo can be enlarged to become a fifth-level tattoo of the same type. This can be done by applying the process again and expanding the tattoo with embellishments. For instance, adding a wave to a pre-existing tattoo of a fish for a Water Breathing Spellwrought tattoo to extend the effects duration. This was a terrible example for lots of reasons, but you get the point. Upgraded tattoos count as one tattoo when calculating their cost.<br/>
 A character can have more than one tattoo but can only have as many as will fit on their body. The tattoos also use an attunement slot which limits how many magical effects a character can benefit from at one time. Shifting attunement from one tattoo to another can happen during a short or long rest.
 
 ## Process
->Creating magic tattoos happens in three stages preparation, inculcation, and application.
+Creating magic tattoos happens in three stages:
+* preparation
+* inculcation
+* application
 
 ### Preparation
 The preparation phase is the process of gathering and preparing the material components needed for the application phase. All tattoos require two basic components: the ink(s) to be applied and the needle(s) to do the application. All tattoos also require extra components that change depending on the desired magical effect. These extra components usually require more of a time investment for their preparation. For example, if gold dust is a component and the cost is 5gp, the character would have to take the time to grind the 5 gold coins down for the application. If wyvern venom essence is a component, the character must take the time to distill out the poisonous components, making the venom safe for application. This process may have other benefits like being left with a wyvern poison concentrate that can be used for other purposes. The preparation may require an alchemy kit and proficiency or some other artisan tools as determined by the DM.
