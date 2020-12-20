@@ -11,14 +11,33 @@
 * [Delaria Betrothed](#delaria-betrothed)
 
 ## Gold for Caravan Trip
+
+### Pay for Hire + Adventure Booty + Busking
 Character | Gold Earned
 ------------ | -------------
-Delaria | 15 + 25
-Echo | 60
-Imogen | 30
-Miller | 48
-Volite | 60
-Zelia | 48
+Delaria | 15 + 140 + 25
+Echo | 60 + 140
+Imogen | 30 + 140
+Miller | 48 + 47
+Volite | 60 + 140
+Zelia | 48 + 140
+
+### Items on the Innevar Twins
+> all items are worth 25gp
+
+Black velvet mask stitched with silver thread, Gold locket with a painted portrait inside, Small gold bracelet.
+Black velvet mask stitched with silver thread, Silver flask, Small mirror set in a wooden frame, Small gold bracelet.
+
+### Total Looted Treasure from Greenest to Waterdeep
+cp | sp | ep | gp | pp
+------------ | ------------- | ------------- | ------------- | -------------
+373 | 372 | 291 | 352 | 16
+***The Loot Split 5 Ways***
+gp | sp | cp
+------------ | ------------- | -------------
+139 | 6 | 9
+> Miller was given 1/3 of the split amount but not taken out of the total. Going forward the loot will be split 6 ways.
+
 
 ## Black Dragon eggs
 ### Nixie's Gift
