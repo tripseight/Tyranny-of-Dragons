@@ -4,7 +4,7 @@
 	* [Nixie's Gift](#nixies-gift)
 	* [The Evil One](#the-evil-one)
 	* [Nymmurh's Deal](#nymmurhs-deal)
-* [Daggerford](#daggerford)
+* [Road to Waterdeep](#road-to-waterdeep)
 	* [Caravan Quarter](#caravan-quarter)
 	* [Farmers' Quarter](#farmers-quarter)
 	* [Doppelganger Takeover](#doppelganger-takeover)
@@ -29,14 +29,9 @@ The two young black dragons can potentially be Echo's adopted step-brothers.
 The **Final Black Dragon Egg** hatches in the dragon hatchery and the **Black Dragon Wyrmling** begins taking townspeople from Greenest in the night.
 ### Nymmurh's Deal
 Nymmurh, an ancient bronze dragon, agrees to help if Nixie takes his hand in marriage and bears him a son who will become king of Calimshan. They can work out a deal where they rule together or potentially work out a situation where the half-dragon child would not come of age until after Echo's death.
-## Daggerford
-### Caravan Quarter
-Catering to those individuals passing through town on the trade business, this area of Daggerford comprised several shops and businesses, guildhalls, as well as several boarding houses. As such, it was nearly devoid of activity during the winter months, when caravan travel all but ceased.[43][52]
-### Farmers' Quarter
-As the name suggested, many farmers and other folks that lived off the land made their home within this part of Daggerford. Animal pens and small livestock paddocks were a common sight throughout its streets.
-Found within this ward was the grand River Shining Tavern, Cromach's Smithy, and the Harvest House, **the local temple to Chauntea**.
-Notable locations included the grand Lady Luck Tavern, Miller's Dry Goods, and Fairfortune Hall.
-[Town Quarters](https://forgottenrealms.fandom.com/wiki/Daggerford#Town_Quarters)
+
+## Road to Waterdeep
+
 ### Ethanos - Volite
 The Temple of Chauntea in Daggerford has been scrying on Ethanos. They send word for Ethanos to return to Greenest and deal with the **Black Dragon Wyrmling**. This should happen at the first establishment the party enters. It can be an Inn or a Tavern and Volite can be in the same common area. If the party goes to see Ethanos off they might catch Volite following them. Erick may have an idea or two about this.
 ### Doppelganger Takeover
@@ -70,6 +65,17 @@ Tram leads Zelia through the forest at a fast pace tracking obvious footprints l
 This pit has a cover constructed from material identical to the floor around it, a successful DC 15 Wisdom (Perception) check discerns that the gnome tracks stop abruptly (exactly at the edge of the trap) and Zelia can inspect for the trap. A successful DC 15 Intelligence (Investigation) check is necessary to confirm that the trapped section of the floor is the cover of a pit. A failed save allows Tram to lead Zelia right into the trap. When a creature steps on the cover, it swings open like a trapdoor, causing the intruder to spill into the pit below. The pit is 15 feet deep and the victim takes 2d6 damage. The trap door that covers the pit is spring-loaded. After a creature falls into the pit, the cover snaps shut to trap its victim inside.
 
 Once in the trap, a successful DC 20 Strength check is necessary to pry the cover open. The cover can also be smashed open. A character in the pit can also attempt to disable the spring mechanism from the inside with a DC 15 Dexterity check using thieves' tools, provided that the mechanism can be reached and the character can see. In some cases, a mechanism (usually hidden behind a secret door nearby) opens the pit.
+
+### Gold for Caravan Trip
+Character | Gold Earned
+------------ | -------------
+Delaria | 15 + 25
+Echo | 60
+Imogen | 30
+Miller | 48
+Volite | 60
+Zelia | 48
+
 ## Delaria Betrothed
 Delaria's parents have struck a deal with **The Red Wizard Velcarum Zimms** a leader in a rebel faction of red wizards that intends to take Thay back from Szass Tam. Delaria's parents hope to once again have close ties with Thay and believe Velcarum can prevail.
 Delaria can get some hints about a way out. The Red wizards don't care much about raising Tiamat. Their interests are also to gain enough power to overthrow Szass Tam.
