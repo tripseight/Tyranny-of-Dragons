@@ -1,3 +1,8 @@
+<style>.phb#p1 ul{
+    font: 15px Arial, sans-serif;
+    list-style: none;
+}</style>
+
 # Tyrany of Dragons<br/>Behind the Scenes
 
 ##### Contents
